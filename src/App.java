@@ -21,11 +21,18 @@ public class App {
     // }
    
     // }
-    int v=2;
-    do{
-    System.out.println(v);
-    v++;
+    // int v=2;
+    // do{
+    // System.out.println(v);
+    // v++;
+    // }
+    // while(v<6);
+
+    int varv=5;
+    while(varv>-1)
+    {
+    System.out.println(varv);
+    varv--;
     }
-    while(v<6);
   }
 }
