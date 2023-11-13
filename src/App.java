@@ -15,10 +15,17 @@ public class App {
     // }
 
     
-    for(int v=0; v<6; v++)
-    {
-    System.out.println(v);
-    }
+    // for(int v=0; v<6; v++)
+    // {
+    // System.out.println(v);
+    // }
    
+    // }
+    int v=2;
+    do{
+    System.out.println(v);
+    v++;
     }
+    while(v<6);
+  }
 }
