@@ -1,13 +1,19 @@
 public class App {
     public static void main(String[] args) throws Exception {
-    int varv=0;
+    // int varv=0;
+    // while(varv<6)
+    // {
+    // System.out.println(varv);
+    // varv++;
+    // }
+    
+    int varv=2;
     while(varv<6)
     {
     System.out.println(varv);
     varv++;
     }
 
-    
 
     }
 }
