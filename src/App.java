@@ -7,13 +7,18 @@ public class App {
     // varv++;
     // }
     
-    int varv=2;
-    while(varv<6)
+    // int varv=2;
+    // while(varv<6)
+    // {
+    // System.out.println(varv);
+    // varv++;
+    // }
+
+    
+    for(int v=0; v<6; v++)
     {
-    System.out.println(varv);
-    varv++;
+    System.out.println(v);
     }
-
-
+   
     }
 }
